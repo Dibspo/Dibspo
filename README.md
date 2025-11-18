@@ -21,4 +21,5 @@ I write all the code myself — no AI involved.
 
 ### 🗨️ Contact  
 Want to chat or ask something? Just write me!
-Dibspo@proton.me
+
+Email — Dibspo@proton.me
