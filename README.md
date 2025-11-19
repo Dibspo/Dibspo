@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-I'm a Python backend developer, actively studying the stack with a focus on **PostgreSQL**, **FastAPI**, and **Django**.  
-I write code after designing the architecture of the future application or feature, and I make sure I understand the required stack before using it.
-I write all the code myself — no AI involved.
-
 ---
 
 ### 🛠 Technologies I use:
